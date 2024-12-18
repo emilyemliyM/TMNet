@@ -13,7 +13,8 @@ Our experiment is tested on Ubuntu 20.04 with Python 3.8 with PyTorch 1.13.6.
 We conduct the image-to-point-cloud place recognition based on KITTI dataset and KITTI-360 dataset.
 
 - The KITTI DATASET
-The used data for the experiment can be downloaded from *[here] (https://www.cvlibs.net/datasets/kitti/index.php)*.
+The used data for the experiment can be downloaded from [here](https://www.cvlibs.net/datasets/kitti/index.php).
+
 - The KITTI 360 DATASET
 The used data can be downloaded from *[here] (https://www.cvlibs.net/datasets/kitti-360/index.php)*.
 

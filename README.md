@@ -17,7 +17,6 @@ We conduct the image-to-point-cloud place recognition based on KITTI dataset and
 - The KITTI DATASET
 The used data for the experiment can be downloaded from [here](https://www.cvlibs.net/datasets/kitti/index.php).
   ```
-
   data  
   ├── sequences  
   │   └── 00  

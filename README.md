@@ -16,6 +16,7 @@ We conduct the image-to-point-cloud place recognition based on KITTI dataset and
 
 - The KITTI DATASET
 The used data for the experiment can be downloaded from [here](https://www.cvlibs.net/datasets/kitti/index.php).
+
 Folder structure:
 
   ```
@@ -30,6 +31,7 @@ Folder structure:
 
 - The KITTI-360 DATASET
 The used data can be downloaded from [here](https://www.cvlibs.net/datasets/kitti-360/index.php).
+
 Folder structure:
 
   ```

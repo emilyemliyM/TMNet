@@ -2,7 +2,7 @@
 
 This repo contains the details for the paper: Contrastive Learning-based Place Descriptor Representation for Cross-modality Place Recognition.
 
-## Set up 
+## 📝 Set up 
 Our experiment is tested on Ubuntu 20.04 with Python 3.8 with PyTorch 1.13.6.
 - build environment
   ```

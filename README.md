@@ -15,9 +15,11 @@ We conduct the image-to-point-cloud place recognition based on KITTI dataset and
 - The KITTI DATASET
 
 - The KITTI 360 DATASET
+The used data can be downloaded from [here] (https://www.cvlibs.net/datasets/kitti-360/index.php)
 
 
-
+## Visualization
+Our image-to-point-cloud place recognition on the unseen KITTI test sequence.
 
 <div>
 <img src="https://github.com/emilyemliyM/TMNet/blob/main/img/kitti08_demo2.gif" alt="描述文本" width="720" height="360">

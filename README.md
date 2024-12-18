@@ -1,5 +1,7 @@
 #  Contrastive Learning-based Place Descriptor Representation for Cross-modality Place Recognition
 
+This repo contains the details for the paper: Contrastive Learning-based Place Descriptor Representation for Cross-modality Place Recognition.
+
 ## Set up 
 Our experiment is tested on Ubuntu 20.04 with Python 3.8 with PyTorch 1.13.6.
 - build environment
@@ -9,8 +11,7 @@ Our experiment is tested on Ubuntu 20.04 with Python 3.8 with PyTorch 1.13.6.
   pip install -r requirements.txt
   ```
 
-## 📚 项目标题
-## DataSet
+## 📚 DataSet
 We conduct the image-to-point-cloud place recognition based on KITTI dataset and KITTI-360 dataset.
 
 - The KITTI DATASET

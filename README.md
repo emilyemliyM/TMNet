@@ -29,6 +29,24 @@ The used data for the experiment can be downloaded from [here](https://www.cvlib
 - The KITTI-360 DATASET
 The used data can be downloaded from [here](https://www.cvlibs.net/datasets/kitti-360/index.php).
 
+  ```
+  data  
+  ├── data_2d_raw    
+  │   ├── 2013_05_28_drive_0002_sync  
+  │   │   ├── image_00  
+  │   │   └── ...  
+  │   └── ...  
+  ├── data_3d_raw  
+  │   ├── 2013_05_28_drive_0002_sync  
+  │   │   ├── image_00  
+  │   │   └── ...  
+  │   └── ...  
+  └── data_poses  
+      ├── 2013_05_28_drive_0002_sync  
+      │   ├── image_00  
+      │   └── ...  
+      └── ...
+  ```
 
 ## 💡  Visualization
 Our image-to-point-cloud place recognition on the unseen KITTI test sequence.

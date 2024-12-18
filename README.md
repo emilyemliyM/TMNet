@@ -16,7 +16,7 @@ We conduct the image-to-point-cloud place recognition based on KITTI dataset and
 The used data for the experiment can be downloaded from [here](https://www.cvlibs.net/datasets/kitti/index.php).
 
 - The KITTI 360 DATASET
-The used data can be downloaded from *[here] (https://www.cvlibs.net/datasets/kitti-360/index.php)*.
+The used data can be downloaded from [here](https://www.cvlibs.net/datasets/kitti-360/index.php).
 
 
 ## Visualization
